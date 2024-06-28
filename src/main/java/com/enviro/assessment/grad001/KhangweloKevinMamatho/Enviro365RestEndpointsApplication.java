@@ -5,9 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class Enviro365RestEndpointsApplication {
-
 	public static void main(String[] args) {
 		SpringApplication.run(Enviro365RestEndpointsApplication.class, args);
 	}
-
 }
